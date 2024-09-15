@@ -3,19 +3,18 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Maid2Clean - Frontend
+    url: https://maid2cleans.com/
+  - name: Maid2Clean - Backend
+    url: https://backoffice.maid2cleans.com/
+  - name: RealtyOne - Frontend
+    url: https://realtyoneapp.com.kh/
+  - name: RealtyOne - Backend
+    url: https://m.realtyoneapp.com.kh/
+  - name: MapAPI - Frontend
+    url: https://map-api.athenacambodia.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
