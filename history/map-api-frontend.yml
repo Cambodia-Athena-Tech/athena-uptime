@@ -1,7 +1,7 @@
 url: https://map-api.athenacambodia.com/
-status: down
-code: 502
-responseTime: 935
-lastUpdated: 2024-09-15T09:06:16.681Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2024-09-15T09:08:05.066Z
 startTime: 2024-09-15T07:28:12.928Z
 generator: Upptime <https://github.com/upptime/upptime>
