@@ -76,19 +76,19 @@
     "url": "https://map-api.athenacambodia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/map-api.athenacambodia.com.ico",
     "slug": "map-api-frontend",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 825,
-    "timeDay": 825,
-    "timeWeek": 825,
-    "timeMonth": 825,
-    "timeYear": 825,
+    "status": "up",
+    "uptime": "91.25%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
+    "time": 833,
+    "timeDay": 833,
+    "timeWeek": 833,
+    "timeMonth": 833,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-09-15": 0
+      "2024-09-15": 11
     }
   },
   {
