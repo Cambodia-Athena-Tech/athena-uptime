@@ -58,19 +58,19 @@
     "url": "https://m.realtyoneapp.com.kh/",
     "icon": "https://icons.duckduckgo.com/ip3/m.realtyoneapp.com.kh.ico",
     "slug": "realty-one-backend",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
-    "time": 990,
-    "timeDay": 1011,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "96.79%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
+    "time": 984,
+    "timeDay": 988,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2024-09-16": 19
+      "2024-09-16": 52
     }
   },
   {
