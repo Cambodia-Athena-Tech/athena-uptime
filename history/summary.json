@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 847,
-    "timeDay": 705,
-    "timeWeek": 769,
-    "timeMonth": 833,
+    "timeDay": 871,
+    "timeWeek": 798,
+    "timeMonth": 829,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2024-09-17": 62
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 782,
-    "timeDay": 637,
-    "timeWeek": 704,
-    "timeMonth": 787,
-    "timeYear": 782,
+    "time": 783,
+    "timeDay": 857,
+    "timeWeek": 734,
+    "timeMonth": 784,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1422,
-    "timeDay": 1282,
-    "timeWeek": 1364,
-    "timeMonth": 1480,
-    "timeYear": 1422,
+    "time": 1429,
+    "timeDay": 1796,
+    "timeWeek": 1418,
+    "timeMonth": 1488,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.realtyoneapp.com.kh.ico",
     "slug": "realty-one-backend",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 939,
-    "timeDay": 832,
-    "timeWeek": 930,
-    "timeMonth": 914,
+    "timeDay": 975,
+    "timeWeek": 948,
+    "timeMonth": 912,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2024-09-17": 62,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 801,
-    "timeDay": 637,
-    "timeWeek": 726,
-    "timeMonth": 796,
+    "timeDay": 816,
+    "timeWeek": 738,
+    "timeMonth": 792,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2024-09-17": 62
