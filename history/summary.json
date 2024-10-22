@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 847,
-    "timeDay": 871,
-    "timeWeek": 798,
-    "timeMonth": 829,
-    "timeYear": 847,
+    "time": 844,
+    "timeDay": 674,
+    "timeWeek": 793,
+    "timeMonth": 826,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 783,
-    "timeDay": 857,
-    "timeWeek": 734,
-    "timeMonth": 784,
-    "timeYear": 783,
+    "time": 782,
+    "timeDay": 695,
+    "timeWeek": 740,
+    "timeMonth": 780,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1429,
-    "timeDay": 1796,
-    "timeWeek": 1418,
-    "timeMonth": 1488,
-    "timeYear": 1429,
+    "time": 1431,
+    "timeDay": 1498,
+    "timeWeek": 1476,
+    "timeMonth": 1494,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.realtyoneapp.com.kh.ico",
     "slug": "realty-one-backend",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 939,
-    "timeDay": 975,
-    "timeWeek": 948,
+    "uptimeYear": "99.76%",
+    "time": 938,
+    "timeDay": 851,
+    "timeWeek": 952,
     "timeMonth": 912,
-    "timeYear": 939,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2024-09-17": 62,
       "2024-09-16": 68
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 801,
-    "timeDay": 816,
-    "timeWeek": 738,
-    "timeMonth": 792,
-    "timeYear": 801,
+    "time": 799,
+    "timeDay": 701,
+    "timeWeek": 748,
+    "timeMonth": 789,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-09-17": 62
     }
