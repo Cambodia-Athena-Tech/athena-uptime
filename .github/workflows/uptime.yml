@@ -23,6 +23,7 @@ on:
   workflow_dispatch:
 jobs:
   release:
+    if: false
     name: Check status
     runs-on: ubuntu-latest
     steps:
